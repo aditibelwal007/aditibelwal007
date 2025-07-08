@@ -142,19 +142,8 @@ I’m a passionate Computer Science Engineering student specializing in Artifici
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
-
   ## 📫 Contact Me
 Feel free to connect or reach out to collaborate or just have a tech chat!
-
-
-📧 Email: your-email@example.com  
-📍 Location: Your City, India
 
 🌟 *Website*: (https://your-portfolio-link.com)  
 🌟 *GitHub*: [github.com/aditibelwal007](https://github.com/aditibelwal007)  
