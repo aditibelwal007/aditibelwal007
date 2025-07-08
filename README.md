@@ -148,12 +148,8 @@ I’m a passionate Computer Science Engineering student specializing in Artifici
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/pacman-contribution-graph.svg">
- 
 
-###
-
-## 📫 Contact Me
-
+  ## 📫 Contact Me
 Feel free to connect or reach out to collaborate or just have a tech chat!
 
 
@@ -164,4 +160,3 @@ Feel free to connect or reach out to collaborate or just have a tech chat!
 🌟 *GitHub*: [github.com/aditibelwal007](https://github.com/aditibelwal007)  
 🌟 *LinkedIn*: [linkedin.com/in/aditi-belwal-80b098301](https://www.linkedin.com/in/aditi-belwal-80b098301)
 
----
