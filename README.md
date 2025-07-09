@@ -127,8 +127,6 @@ I’m a passionate Computer Science Engineering student specializing in Artifici
 
 <h3 align="left">🔥  My Stats :</h3>
 
-###
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
@@ -138,7 +136,7 @@ I’m a passionate Computer Science Engineering student specializing in Artifici
 </div>
 
   ## 📫 Contact Me
-  ##
+
 Feel free to connect or reach out to collaborate or just have a tech chat!
 
 🌟 *Website*: (https://your-portfolio-link.com)  
