@@ -21,12 +21,15 @@
 
 I’m a passionate Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning. With a strong foundation in software development and web technologies, I’m constantly exploring and building innovative projects. My goal is to use technology to solve real-world problems and contribute to impactful solutions.
 
+###
 
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aditi-belwal-80b098301)
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/aditibelwal007)
 ---
+
+###
 
 ## 💻 Tech Stack
 
@@ -66,6 +69,7 @@ I’m a passionate Computer Science Engineering student specializing in Artifici
 ![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva)
 
 
+----
 
 ## 📊 GitHub Stats
 
@@ -109,6 +113,7 @@ I’m a passionate Computer Science Engineering student specializing in Artifici
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
+----
 
 ## 🔝 Top Contributed Repositories
 
@@ -136,6 +141,8 @@ I’m a passionate Computer Science Engineering student specializing in Artifici
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=maurodesouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
+
+---
 
   ## 📫 Contact Me
 
